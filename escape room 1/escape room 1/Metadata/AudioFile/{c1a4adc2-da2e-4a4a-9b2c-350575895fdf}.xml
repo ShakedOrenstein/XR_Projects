@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c1a4adc2-da2e-4a4a-9b2c-350575895fdf}">
+		<property name="assetPath">
+			<value>SFX/book falling.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.2016326530612245</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6c5a73b5-a41e-43e0-8f6e-1015b0f0e87a}</destination>
+		</relationship>
+	</object>
+</objects>

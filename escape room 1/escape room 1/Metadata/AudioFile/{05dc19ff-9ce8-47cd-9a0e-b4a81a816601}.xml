@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{05dc19ff-9ce8-47cd-9a0e-b4a81a816601}">
+		<property name="assetPath">
+			<value>SoundTrack/magic box.aif</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>96.589024943310662</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6c5a73b5-a41e-43e0-8f6e-1015b0f0e87a}</destination>
+		</relationship>
+	</object>
+</objects>

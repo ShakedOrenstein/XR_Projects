@@ -1,0 +1,317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8039098521111827559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../escape room 1/escape room 1/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638066416538938717
+  FileSizes:
+  - Name: Desktop
+    Value: 1224
+  Exists: 1
+--- !u!114 &-7638781415482877231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/teleport
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/teleport
+  Guid:
+    Data1: -97671859
+    Data2: 1317122813
+    Data3: 1670557628
+    Data4: -1122507544
+  Banks:
+  - {fileID: 7607011788899102635}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2956
+--- !u!114 &-5321003647453484395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/crystal
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/crystal
+  Guid:
+    Data1: -896243675
+    Data2: 1309032364
+    Data3: -1347439
+    Data4: -142130310
+  Banks:
+  - {fileID: 7607011788899102635}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4523
+--- !u!114 &-3282333133583111992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/ball falls and rolls
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/ball falls and rolls
+  Guid:
+    Data1: 8943233
+    Data2: 1117748406
+    Data3: -606516334
+    Data4: -801690211
+  Banks:
+  - {fileID: 7607011788899102635}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 6722
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -8039098521111827559}
+  - {fileID: 7607011788899102635}
+  EditorEvents:
+  - {fileID: 5416455579587939346}
+  - {fileID: 3330450295653957750}
+  - {fileID: -5321003647453484395}
+  - {fileID: -7638781415482877231}
+  - {fileID: 1486241558272504604}
+  - {fileID: 489422623701820996}
+  - {fileID: 206891074032737802}
+  - {fileID: -3282333133583111992}
+  - {fileID: 1671948064264763669}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 7607011788899102635}
+  StringsBanks:
+  - {fileID: -8039098521111827559}
+  cacheTime: 638066416538938717
+  cacheVersion: 131593
+--- !u!114 &206891074032737802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/book falling
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/book falling
+  Guid:
+    Data1: -1315582088
+    Data2: 1156947551
+    Data3: 954633901
+    Data4: -981482214
+  Banks:
+  - {fileID: 7607011788899102635}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1171
+--- !u!114 &489422623701820996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/teleport wall
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/teleport wall
+  Guid:
+    Data1: -2147060372
+    Data2: 1339609706
+    Data3: 874035584
+    Data4: -849321821
+  Banks:
+  - {fileID: 7607011788899102635}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3511
+--- !u!114 &1486241558272504604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SoundTrack
+  m_EditorClassIdentifier: 
+  Path: event:/SoundTrack
+  Guid:
+    Data1: -103904944
+    Data2: 1316084137
+    Data3: -1207775331
+    Data4: 482167733
+  Banks:
+  - {fileID: 7607011788899102635}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 91428
+--- !u!114 &1671948064264763669
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/win a point
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/win a point
+  Guid:
+    Data1: 844712945
+    Data2: 1204997698
+    Data3: -697426541
+    Data4: -1814715649
+  Banks:
+  - {fileID: 7607011788899102635}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2331
+--- !u!114 &3330450295653957750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/generic sound of book
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/generic sound of book
+  Guid:
+    Data1: 1635360539
+    Data2: 1248025417
+    Data3: -949595236
+    Data4: -1911905142
+  Banks:
+  - {fileID: 7607011788899102635}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 599
+--- !u!114 &5416455579587939346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/crystal - putting down
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/crystal - putting down
+  Guid:
+    Data1: -2058986477
+    Data2: 1220604150
+    Data3: -1055694676
+    Data4: 17094651
+  Banks:
+  - {fileID: 7607011788899102635}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2063
+--- !u!114 &7607011788899102635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../escape room 1/escape room 1/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638066416538743262
+  FileSizes:
+  - Name: Desktop
+    Value: 7746272
+  Exists: 1
